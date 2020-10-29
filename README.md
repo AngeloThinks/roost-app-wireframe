@@ -1,3 +1,5 @@
+ROOST App
+
 Roost is an app that is designed for teachers that are teaching in person. 
 Roost will help with the daily and daunting task of coming up with seating arrangements for students attending school.
 Roost helps randomize seating charts and gives the ability to cusomize the number and rows of seats.
